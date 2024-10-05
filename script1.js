@@ -1,3 +1,1 @@
-function showAlert() {
-alert("You clicked the button!");
-}
+console.log(1);
