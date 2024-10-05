@@ -1,0 +1,12 @@
+@media (max-width: 1000px) {
+    .flowchart {
+        width: 80%;
+        margin-bottom: 50px;
+    }
+}
+
+@media (max-width: 670px) {
+    .flowchart {
+        width: 100%;
+    }
+}
