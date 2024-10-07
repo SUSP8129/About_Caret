@@ -56,3 +56,21 @@
     }
 }
 
+@media (min-width: 1000px) {
+    .sample_text {
+        width: 70%;
+    }
+}
+
+@media (max-width: 1000px) {
+    .sample_text {
+        width: 80%;
+        margin-bottom: 50px;
+    }
+}
+
+@media (max-width: 670px) {
+    .sample_text {
+        width: 100%;
+    }
+}
