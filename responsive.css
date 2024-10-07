@@ -1,13 +1,39 @@
 @media (max-width: 1000px) {
-    .flowchart {
+    .webstore {
         width: 80%;
         margin-bottom: 50px;
     }
 }
 
 @media (max-width: 670px) {
-    .flowchart {
+    .webstore {
         width: 50%;
+    }
+}
+
+@media (max-width: 1000px) {
+    .sample_caret {
+        width: 80%;
+        margin-bottom: 50px;
+    }
+}
+
+@media (max-width: 670px) {
+    .sample_caret {
+        width: 50%;
+    }
+}
+
+@media (max-width: 1000px) {
+    .text_extension {
+        width: 80%;
+        margin-bottom: 50px;
+    }
+}
+
+@media (max-width: 670px) {
+    .text_extension {
+        width: 80%;
     }
 }
 
