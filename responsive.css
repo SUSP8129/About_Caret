@@ -7,7 +7,7 @@
 
 @media (max-width: 670px) {
     .webstore {
-        width: 50%;
+        width: 100%;
     }
 }
 
@@ -20,7 +20,7 @@
 
 @media (max-width: 670px) {
     .sample_caret {
-        width: 50%;
+        width: 100%;
     }
 }
 
