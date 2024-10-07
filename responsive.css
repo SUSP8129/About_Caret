@@ -1,3 +1,9 @@
+@media (min-width: 1000px) {
+    .webstore {
+        width: 75%;
+    }
+}
+
 @media (max-width: 1000px) {
     .webstore {
         width: 80%;
