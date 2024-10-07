@@ -1,6 +1,6 @@
 @media (min-width: 1000px) {
     .webstore {
-        width: 60%;
+        width: 65%;
     }
 }
 
@@ -33,6 +33,12 @@
 
 @media (max-width: 670px) {
     .sample_caret {
+        width: 100%;
+    }
+}
+
+@media (min-width: 1000px) {
+    .text_extension {
         width: 100%;
     }
 }
