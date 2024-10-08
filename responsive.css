@@ -39,13 +39,13 @@
 
 @media (min-width: 1000px) {
     .text_extension {
-        width: 60%;
+        width: 50%;
     }
 }
 
 @media (max-width: 1000px) {
     .text_extension {
-        width: 80%;
+        width: 70%;
         margin-bottom: 50px;
     }
 }
