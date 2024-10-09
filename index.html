@@ -56,6 +56,20 @@
     <p>In that case, please access from the link below: </p>
     <a href="https://chromewebstore.google.com/detail/caret/fljalecfjciodhpcledpamjachpmelml?hl=en">Chrome Web Store - Caret</a>    
 
+    <form method="POST" action="/">
+        <table class="inputFields">
+            <tr class="inputField">
+                <th>
+                    <input type="text" name="content[]" placeholder="Value"></th>
+                <td>
+                    <!--Button to delete input element-->
+                    <button class="deleteFieldBtn">Delete input field</button></td>
+            </tr>
+        </table>
+        <!--Button to add input element-->
+        <button class="addFieldBtn">Add input field</button>
+        <input type="submit" name="submit" value="Send">
+    </form>
     <script src="script1.js"></script>
     
 </body>
