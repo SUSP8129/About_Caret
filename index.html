@@ -40,23 +40,32 @@
 
 
     <button class="button01" type="button" 
-        onclick="showAlert()"
+        onclick="alertFunction()"
         onclick="location.href='https://chromewebstore.google.com/detail/caret/fljalecfjciodhpcledpamjachpmelml?hl=en'">
             Jump to Chrome Web Store - Caret
     </button>
 
+
     <script>
-        function showAlert() {
-        alert("Do you want to open an external site?");
-        }
+        function alertFunction() {
+            if (confirm('Do you want to open an external site?')) {
+              return true;
+            } else {
+             return false;
+            }
+         }
     </script>
-    
+        
+
     <p>*Please note: Depending on the operating environment, 
         you may not be able to jump to "Chrome Web Store - Caret" from this button. </p>
     <p>In that case, please access from the link below: </p>
     <a href="https://chromewebstore.google.com/detail/caret/fljalecfjciodhpcledpamjachpmelml?hl=en">Chrome Web Store - Caret</a>    
 
+    <button onclick="alertFunction()">Open</button>
+    
     <button id="my-button">Remove Token</button>
+
     <script src="script1.js"></script>
     
 </body>
