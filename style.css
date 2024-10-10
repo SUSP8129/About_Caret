@@ -1,3 +1,11 @@
+.zero {
+  background-color: pink;
+}
+
+.blank {
+  background-color: lightgray;
+}
+
 .first {
     background-color: red;
 }
