@@ -25,8 +25,16 @@ header .headline{
     background-color: red;
 }
 
+.one {
+  padding-top: 10px;
+}
+
 .second {
   background-color: orange;
+}
+
+.two {
+  padding-top: 10px;
 }
 
 .button01 {
