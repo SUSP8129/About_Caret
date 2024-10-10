@@ -25,6 +25,10 @@ header .headline{
     background-color: red;
 }
 
+.second {
+  background-color: orange;
+}
+
 .button01 {
     background-color: green;
     color: white;
@@ -37,6 +41,15 @@ header .headline{
     opacity: 0.8;
   }
 
-  .second {
-    background-color: orange;
+
+  .button02 {
+    background-color: blue;
+    color: white;
+    padding: 10px 30px;
+    text-decoration: none;
+    font-size: 1em;
+  }
+  .button02:hover {
+    color: white;
+    opacity: 0.8;
   }
