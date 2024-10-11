@@ -1,3 +1,8 @@
+.fullscreen-image {
+  display: inline-block;   /* Specifying horizontal alignment */
+  margin: 0px 5px 5px 0px; /* Surrounding margin amount(5px each on the right and bottom) */
+}
+
 .zero {
   background-color: pink;
 }
