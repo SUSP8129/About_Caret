@@ -112,3 +112,22 @@
         width: 100%;
     }
 }
+
+@media (min-width: 1000px) {
+    .show-hidden-files {
+        width: 60%;
+    }
+}
+
+@media (max-width: 1000px) {
+    .show-hidden-files {
+        width: 80%;
+        margin-bottom: 50px;
+    }
+}
+
+@media (max-width: 670px) {
+    .show-hidden-files {
+        width: 100%;
+    }
+}
