@@ -51,6 +51,8 @@
 .files_info {
   float: left;
   width: 25%;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .fifth {
