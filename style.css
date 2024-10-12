@@ -49,17 +49,8 @@
 }
 
 .files_info {
-  display: flex;
-}
-
-.files {
-  width: 300;
-  height: 200;
-}
-
-.info {
-  width: 300;
-  height: 200;
+  float: left;
+  width: 25%;
 }
 
 .fifth {
