@@ -167,7 +167,7 @@
 
 @media (max-width: 1000px) {
     .files {
-        width: 45%;
+        width: 60%;
     }
 }
 
@@ -180,18 +180,18 @@
 /* class="info" */
 @media (min-width: 1000px) {
     .info {
-        width: 60%;
+        width: 45%;
     }
 }
 
 @media (max-width: 1000px) {
     .info {
-        width: 80%;
+        width: 60%;
     }
 }
 
 @media (max-width: 670px) {
     .info {
-        width: 100%;
+        width: 90%;
     }
 }
