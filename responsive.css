@@ -158,3 +158,40 @@
     }
 }
 
+/* class="files" */
+@media (min-width: 1000px) {
+    .files {
+        width: 45%;
+    }
+}
+
+@media (max-width: 1000px) {
+    .files {
+        width: 45%;
+    }
+}
+
+@media (max-width: 670px) {
+    .files {
+        width: 90%;
+    }
+}
+
+/* class="info" */
+@media (min-width: 1000px) {
+    .info {
+        width: 45%;
+    }
+}
+
+@media (max-width: 1000px) {
+    .info {
+        width: 45%;
+    }
+}
+
+@media (max-width: 670px) {
+    .info {
+        width: 90%;
+    }
+}
