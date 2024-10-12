@@ -48,6 +48,10 @@
   padding-top: 10px;
 }
 
+.files_info {
+  display: flex;
+}
+
 .fifth {
   background-color: blue;
 }
