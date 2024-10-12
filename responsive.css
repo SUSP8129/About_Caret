@@ -1,6 +1,6 @@
 @media (min-width: 1000px) {
     .webstore {
-        width: 70%;
+        width: 60%;
     }
 }
 
@@ -19,7 +19,7 @@
 
 @media (min-width: 1000px) {
     .sample_before {
-        width: 70%;
+        width: 60%;
     }
 }
 
@@ -39,7 +39,7 @@
 
 @media (min-width: 1000px) {
     .sample_caret {
-        width: 70%;
+        width: 60%;
     }
 }
 
@@ -64,7 +64,7 @@
 
 @media (max-width: 1000px) {
     .text_extension {
-        width: 70%;
+        width: 65%;
         margin-bottom: 50px;
     }
 }
@@ -77,7 +77,7 @@
 
 @media (min-width: 1000px) {
     .sample_text {
-        width: 70%;
+        width: 60%;
     }
 }
 
@@ -96,7 +96,7 @@
 
 @media (min-width: 1000px) {
     .sample_after {
-        width: 70%;
+        width: 60%;
     }
 }
 
