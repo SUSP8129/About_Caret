@@ -79,7 +79,7 @@
     font-size: 1em;
   }
   .button01:hover {
-    color: white;
+    color: grey;
     opacity: 0.8;
   }
 
@@ -92,7 +92,7 @@
     font-size: 1em;
   }
   .button02:hover {
-    color: white;
+    color: grey;
     opacity: 0.8;
   }
 
