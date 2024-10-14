@@ -71,37 +71,28 @@
   padding-top: 10px;
 }
 
-.seventh {
-  background-color: brown;
-  color: white;
-}
-
-.seven {
-  padding-top: 10px;
-}
-
 .button01 {
   background-color: green;
-  color: white;
+  color: black;
   padding: 10px 30px;
   text-decoration: none;
   font-size: 1em;
 }
 .button01:hover {
-  color: grey;
+  color: white;
   opacity: 0.8;
 }
 
 
 .button02 {
   background-color: blue;
-  color: white;
+  color: black;
   padding: 10px 30px;
   text-decoration: none;
   font-size: 1em;
 }
 .button02:hover {
-  color: grey;
+  color: white;
   opacity: 0.8;
 }
 
@@ -116,6 +107,16 @@
   color: white;
   opacity: 0.8;
 }
+
+.seventh {
+  background-color: brown;
+  color: white;
+}
+
+.seven {
+  padding-top: 10px;
+}
+
 
 .final {
   background-color: wheat;
