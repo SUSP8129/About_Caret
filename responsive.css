@@ -21,20 +21,20 @@
 /* class="sample_before" */
 @media (min-width: 1000px) {
     .sample_before {
-        width: 60%;
+        width: 50%;
     }
 }
 
 @media (max-width: 1000px) {
     .sample_before {
-        width: 80%;
+        width: 65%;
         margin-bottom: 50px;
     }
 }
 
 @media (max-width: 670px) {
     .sample_before {
-        width: 100%;
+        width: 80%;
     }
 }
 
@@ -61,20 +61,20 @@
 /* class="text_extension" */
 @media (min-width: 1000px) {
     .text_extension {
-        width: 50%;
+        width: 45%;
     }
 }
 
 @media (max-width: 1000px) {
     .text_extension {
-        width: 65%;
+        width: 60%;
         margin-bottom: 50px;
     }
 }
 
 @media (max-width: 670px) {
     .text_extension {
-        width: 80%;
+        width: 75%;
     }
 }
 
@@ -101,60 +101,60 @@
 /* class="sample_after" */
 @media (min-width: 1000px) {
     .sample_after {
-        width: 60%;
+        width: 50%;
     }
 }
 
 @media (max-width: 1000px) {
     .sample_after {
-        width: 80%;
+        width: 65%;
         margin-bottom: 50px;
     }
 }
 
 @media (max-width: 670px) {
     .sample_after {
-        width: 100%;
+        width: 80%;
     }
 }
 
 /* class="show-hidden-files" */
 @media (min-width: 1000px) {
     .show-hidden-files {
-        width: 60%;
+        width: 50%;
     }
 }
 
 @media (max-width: 1000px) {
     .show-hidden-files {
-        width: 80%;
+        width: 65%;
         margin-bottom: 50px;
     }
 }
 
 @media (max-width: 670px) {
     .show-hidden-files {
-        width: 100%;
+        width: 80%;
     }
 }
 
 /* class="trash" */
 @media (min-width: 1000px) {
     .trash {
-        width: 60%;
+        width: 50%;
     }
 }
 
 @media (max-width: 1000px) {
     .trash {
-        width: 80%;
+        width: 65%;
         margin-bottom: 50px;
     }
 }
 
 @media (max-width: 670px) {
     .trash {
-        width: 100%;
+        width: 80%;
     }
 }
 
