@@ -109,11 +109,13 @@
 }
 
 .pleasenote1 {
+  background-color: plum;
   padding-top: 10px;
 }
 
 .pleasenote2 {
-  padding-left: 50px;
+  background-color: plum;
+  padding-bottom: 10px;
 }
 
 .seventh {
