@@ -108,6 +108,16 @@
   opacity: 0.8;
 }
 
+.pleasenote1 {
+  background-color: plum;
+  padding-top: 10px;
+}
+
+.pleasenote2 {
+  background-color: plum;
+  padding-left: 50px;
+}
+
 .seventh {
   background-color: brown;
   color: white;
